@@ -6,7 +6,7 @@ public class StudentEnrollment {
         final int FEE_PER_UNIT = 1000;
 
         // Variables
-        String studentName = "Retrita, Regine G.";
+        String studentName = "Dela Cruz, Maica A.";
         String course = "Bachelor of Science in Computer Engineering";
         String courseCode = "CPE 211";
         int numberOfUnits = 2;
